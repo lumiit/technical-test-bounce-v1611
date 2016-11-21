@@ -9,7 +9,7 @@ Please refer to the C++ executable file (bounce.exe) as sample.
 <h4>Requirements:</h4>
 <ul>
 	<li>The ball is red in color and 30 pixels in radius.</li>
-	<li>Application window can be resized by mouse.</li>
+	<li>Application/Browser window can be resized.</li>
 	<li>At start, the ball is at middle of upper area.</li>
 	<li>If pressing [Restart] button, the ball moves back to the middle and restarts its movement.</li>
 </ul>
