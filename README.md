@@ -8,7 +8,7 @@ Please refer to the C++ executable file (bounce.exe) as sample.
  
 <h4>Requirements:</h4>
 <ul>
-	<li>The ball is red in color and 30 pixels in radius.</li>
+	<li>The ball is 30 pixels in radius.</li>
 	<li>The Application/Browser Window can be resized.</li>
 	<li>At start, the ball is at middle of upper area.</li>
 	<li>If pressing [Restart] button, the ball moves back to the middle and restarts its movement.</li>
@@ -16,7 +16,8 @@ Please refer to the C++ executable file (bounce.exe) as sample.
  
 <h4>Not important:</h4>
 <ul>
-	<li>The ball can move at any realistic speed.</li>
+	<li>The ball can move at any speed, just not too slow.</li>
+	<li>The color is not important.</li>
 </ul>
 
 <h4>Time:</h4>
