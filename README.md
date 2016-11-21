@@ -25,4 +25,4 @@ A round ball collides inside upper area in 45 degree angle.
 The program should be completed in 4 - 6 hours.
 
 <h4>Other:</h4>
-You may be required to complete multiple versions of this exercise in different language. Please refer to your instruction email for more details.
+You may be required to complete multiple versions of this exercise in different languages. Please refer to your instruction email for more details.
