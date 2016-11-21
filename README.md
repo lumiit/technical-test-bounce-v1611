@@ -2,10 +2,9 @@
 
 <h2>Exercise Details</h2>
  
-There is a c++ executable file (bounce.exe) as sample, which can run on Windows operation system.
-
 A round ball collides inside upper area in 45 degree angle.
 
+Please refer to the C++ executable file (bounce.exe) as sample.
  
 <h4>Requirements:</h4>
 <ul>
@@ -17,8 +16,7 @@ A round ball collides inside upper area in 45 degree angle.
  
 <h4>Not important:</h4>
 <ul>
-	<li>You can use any kinds of border and/or background color.</li>
-	<li>The ball can move at any realistic speed, but just not too slow.</li>
+	<li>The ball can move at any realistic speed.</li>
 </ul>
 
 <h4>Time:</h4>
